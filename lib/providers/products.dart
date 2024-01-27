@@ -1,4 +1,4 @@
-import 'package:ecommerce_provider/models/product_model.dart';
+import 'package:ecommerce_provider/providers/product_model.dart';
 import 'package:flutter/material.dart';
 
 class products with ChangeNotifier{
